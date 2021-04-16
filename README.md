@@ -10,7 +10,7 @@
 
 ## Preview
 
-![image](lib\assets\team-profilesnip.JPG)
+![image](./lib/assets/team-profilesnip.JPG)
 
 ## Usage
 ```From the root of the application type the command "npm start" to begin the terminal prompts. After completing all of the prompts, navigate to the "gitinformation.html" file and select anywhere in the code and type "Alt + B" to see the output in a browser page```
